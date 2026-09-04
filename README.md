@@ -49,13 +49,17 @@ Another advantage of server-based implementation of a programming interface is t
 Platforms that support collaborative programming have become very popular recently. Among these are Google's [Colab](https://colab.research.google.com/), Microsoft's [Azure Notebooks](https://notebooks.azure.com/), and [Kaggle](https://www.kaggle.com/), the data science and machine learning community platform. All of these support Python and have interfaces very similar to the Jupyter Notebook interface that we shall be using.
 
 
-## Working with Jupyter Notebooks in Noteable
+## Working with Jupyter Notebooks in GitHub Codespaces and Noteable
 
-For this module, you can use Noteable to open Jupyter Notebook (`.ipynb`) files. These notebooks, created by the tutor, offer both guidance and practice environments for your programming.
+For this module, you can use GitHub Codespaces or Noteable to open Jupyter Notebook (`.ipynb`) files. These notebooks, created by the tutor, offer both guidance and practice environments for your programming.
 
 You may also use Anaconda to launch these notebook files, which will be necessary if you plan to program outside of this module. This page provides guidance specifically for launching Jupyter Notebooks via Noteable. Guidance on setting up Anaconda will be provided in the next section.
 
 All Jupyter Notebook files for this module are stored in the University of Leeds GitHub repository (linked below). To open them in Noteable, you first need to clone the files from the GitHub repository and copy them into Noteable.
+
+You can access GitHub Codespaces via GitHub Education ('https://github.com/education/students').
+
+We have also provided a reminder of how to use Notebooks in Noteable.
 
 ### Steps to clone and launch Jupyter Notebooks in Noteable:
 
