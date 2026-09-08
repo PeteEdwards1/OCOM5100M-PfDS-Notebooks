@@ -114,12 +114,12 @@ Upload the PDF when prompted during the GitHub Education application
 If you have tried the three options and your application is still being rejected, please post in the module discussion forum or contact me directly and we will work through it together.
 ##### Please note:
 Once your application is accepted, it can take a couple of days before the benefits become available, this is normal, so do not worry if access does not appear immediately.
-# While you are waiting for verification, you can continue working on the module using any of the following:
+## While you are waiting for verification, you can continue working on the module using any of the following:
 Google Colab: free, runs in your browser, no installation needed
 Noteable: available to all Leeds students via Minerva
 Anaconda: download from anaconda.com to work locally on your own machine
 
-# Completing other exercises in this module
+## Completing other exercises in this module
 
 Alongside the Jupyter Notebooks provided for this module, you will also come across smaller programming challenges and questions – usually labelled as 'exercises'. It is recommended that you use Noteable to complete these exercises, however, you should also be able to use any of the tools mentioned in this guide.
 
