@@ -81,7 +81,7 @@ As you proceed through the module, you will be prompted to open specific noteboo
 
 More information about using Noteable can be found on the [Edina website](https://noteable.edina.ac.uk/user-guide/#up_2).
 
-### GitHub Education Verification — How to Get Verified
+### Accessing GitHub Codespaces
 
 GitHub Education gives you free access to a range of developer tools while you are a student. To get verified, your name must match exactly across three places: your GitHub profile, your GitHub billing information, and the document you submit as proof of academic affiliation. Even small differences, a missing middle name, a shortened first name, or a nickname, will cause your application to be rejected.
 #### Step 1: Check your name settings before applying
@@ -91,24 +91,30 @@ Log out of GitHub and log back in before submitting your application
 #### Step 2: Choose one of the following documents as your proof of affiliation
 
 ##### Option A: Registration Certificate (recommended)
-Log in to Minerva
-Click the Student Services link on the Minerva opening page
-Use the tabs along the top to navigate to the registration certificate section
-Download your registration certificate, it includes your full name and "University of Leeds" in full, which is what GitHub requires
-You can also include a screenshot of the page the certificate link was on, as it shows your name and the university logo as additional confirmation
-Submit the registration certificate (and optional screenshot) when prompted during the GitHub Education application
-
+#### GitHub Education verification - how to get verified
+GitHub Education gives you free access to a range of developer tools while you are a student. To get verified, your name must match exactly across three places: your GitHub profile, your GitHub billing information, and the document you submit as proof of academic affiliation. Even small differences, a missing middle name, a shortened first name, or a nickname, will cause your application to be rejected.
+#### Step 1 Check your name settings before applying
+1.	Go to your GitHub profile and make sure your full name is entered exactly as it appears on your University of Leeds documentation.
+2.	Go to your GitHub billing information and check that your name there also matches exactly.
+3.	Log out of GitHub and log back in before submitting your application.
+#### Step 2: Choose one of the following documents as your proof of affiliation
+##### Option A: Registration certificate (recommended)
+1.	Log in to Minerva.
+2.	Select the Student Services link on the Minerva opening page.
+3.	Use the tabs along the top to navigate to the registration certificate section.
+4.	Download your registration certificate, it includes your full name and "University of Leeds" in full, which is what GitHub requires.
+5.	You can also include a screenshot of the page the certificate link was on, as it shows your name and the university logo as additional confirmation.
+6.	Submit the registration certificate (and optional screenshot) when prompted during the GitHub Education application.
 ##### Option B: Student ID Card
-Take a clear photo of your University of Leeds student ID card
-When prompted during the GitHub Education application, select "School ID" as the document type
-Make sure your name on the card matches your GitHub profile and billing information exactly
-
+1.	Take a clear photo of your University of Leeds student ID card.
+2.	When prompted during the GitHub Education application, select "School ID" as the document type.
+3.	Make sure your name on the card matches your GitHub profile and billing information exactly.
 ##### Option C: Module Enrolment Email
-Find one of the following emails in your inbox:
-UOL Online: Important - Module Reminder
-26/27(B02) OCOM5100M Programming for Data Science (37918): Module available
-Save it as a PDF (in most email clients: File → Print → Save as PDF)
-Upload the PDF when prompted during the GitHub Education application
+1. Find one of the following emails in your inbox:
+o	UOL Online: Important - Module Reminder.
+o	26/27(B02) OCOM5100M Programming for Data Science (37918): Module available.
+2. Save it as a PDF (in most email clients: File → Print → Save as PDF)
+3. Upload the PDF when prompted during the GitHub Education application
  
 ##### Still having trouble?
 If you have tried the three options and your application is still being rejected, please post in the module discussion forum or contact me directly and we will work through it together.
