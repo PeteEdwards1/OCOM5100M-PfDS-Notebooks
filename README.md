@@ -104,8 +104,8 @@ GitHub Education gives you free access to a range of developer tools while you a
 3.	Make sure your name on the card matches your GitHub profile and billing information exactly.
 ##### Option C: Module Enrolment Email
 1. Find one of the following emails in your inbox:
-o	UOL Online: Important - Module Reminder.
-o	26/27(B02) OCOM5100M Programming for Data Science (37918): Module available.
+   UOL Online: Important - Module Reminder.
+   26/27(B02) OCOM5100M Programming for Data Science (37918): Module available.
 2. Save it as a PDF (in most email clients: File → Print → Save as PDF)
 3. Upload the PDF when prompted during the GitHub Education application
  
