@@ -84,18 +84,11 @@ More information about using Noteable can be found on the [Edina website](https:
 ### Accessing GitHub Codespaces
 
 GitHub Education gives you free access to a range of developer tools while you are a student. To get verified, your name must match exactly across three places: your GitHub profile, your GitHub billing information, and the document you submit as proof of academic affiliation. Even small differences, a missing middle name, a shortened first name, or a nickname, will cause your application to be rejected.
-#### Step 1: Check your name settings before applying
-Go to your GitHub profile and make sure your full name is entered exactly as it appears on your University of Leeds documentation
-Go to your GitHub billing information and check that your name there also matches exactly
-Log out of GitHub and log back in before submitting your application
-#### Step 2: Choose one of the following documents as your proof of affiliation
-
-##### Option A: Registration Certificate (recommended)
 #### GitHub Education verification - how to get verified
 GitHub Education gives you free access to a range of developer tools while you are a student. To get verified, your name must match exactly across three places: your GitHub profile, your GitHub billing information, and the document you submit as proof of academic affiliation. Even small differences, a missing middle name, a shortened first name, or a nickname, will cause your application to be rejected.
 #### Step 1 Check your name settings before applying
-1.	Go to your GitHub profile and make sure your full name is entered exactly as it appears on your University of Leeds documentation.
-2.	Go to your GitHub billing information and check that your name there also matches exactly.
+1.	Go to your [GitHub profile](https://github.com/settings/profile) and make sure your full name is entered exactly as it appears on your University of Leeds documentation.
+2.	Go to your [GitHub billing information](https://github.com/settings/billing/payment_information) and check that your name there also matches exactly.
 3.	Log out of GitHub and log back in before submitting your application.
 #### Step 2: Choose one of the following documents as your proof of affiliation
 ##### Option A: Registration certificate (recommended)
