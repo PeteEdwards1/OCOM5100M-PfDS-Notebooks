@@ -57,7 +57,7 @@ You may also use Anaconda to launch these notebook files, which will be necessar
 
 All Jupyter Notebook files for this module are stored in the University of Leeds GitHub repository (linked below). To open them in Noteable, you first need to clone the files from the GitHub repository and copy them into Noteable.
 
-You can access GitHub Codespaces via GitHub Education ('https://github.com/education/students').
+You can access GitHub Codespaces via [GitHub Education]('https://github.com/education/students').
 
 We have also provided a reminder of how to use Notebooks in Noteable.
 
